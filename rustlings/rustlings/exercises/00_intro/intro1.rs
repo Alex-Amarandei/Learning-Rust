@@ -1,4 +1,3 @@
-// TODO: We sometimes encourage you to keep trying things on a given exercise
 // even after you already figured it out. If you got everything working and feel
 // ready for the next exercise, enter `n` in the terminal.
 //
@@ -6,6 +5,7 @@
 // Try adding a new `println!` and check the updated output in the terminal.
 
 fn main() {
+    println!(r#"-------------- Hello world! --------------"#);
     println!(r#"       Welcome to...                      "#);
     println!(r#"                 _   _ _                  "#);
     println!(r#"  _ __ _   _ ___| |_| (_)_ __   __ _ ___  "#);
