@@ -1,0 +1,8 @@
+[package]
+name = "pancakes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macros = { path = "../macros" }
+macros_derive = { path = "../macros/macros_derive" }
